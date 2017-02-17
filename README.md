@@ -12,3 +12,6 @@ A list of interesting blogs/papers for a beginner to read about various deep-lea
 
 ### One Shot Learning
 * [Matching Networks for One Shot Learning](https://github.com/karpathy/paper-notes/blob/master/matching_networks.md) [[Paper link]](https://arxiv.org/abs/1606.04080)
+
+### Generative Adversarial Networks
+* [NIPS 2016 Tutorial: Generative Adversarial Networks](https://arxiv.org/abs/1701.00160)
