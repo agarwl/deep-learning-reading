@@ -1,5 +1,5 @@
 # deep-learning-reading
-A list of interesting blogs/papers for a beginner to read about various deep-learning methods/architectures!
+A list of interesting blogs/papers I have read about various deep-learning methods/architectures!
 
 ### LSTM
 * [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
