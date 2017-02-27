@@ -11,7 +11,7 @@ A list of interesting blogs/papers I have read about various deep-learning metho
 * [Messing around with Word2vec] (https://quomodocumque.wordpress.com/2016/01/15/messing-around-with-word2vec/)
 
 ### One Shot Learning
-* [Matching Networks for One Shot Learning] (https://github.com/karpathy/paper-notes/blob/master/matching_networks.md)[Paper link] (https://arxiv.org/abs/1606.04080)
+* [Matching Networks for One Shot Learning] (https://github.com/karpathy/paper-notes/blob/master/matching_networks.md)[[Paper link]] (https://arxiv.org/abs/1606.04080)
 
 ### Generative Adversarial Networks
 * [Generative Adversarial Networks] (https://arxiv.org/abs/1406.2661)
