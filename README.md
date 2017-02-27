@@ -15,3 +15,6 @@ A list of interesting blogs/papers I have read about various deep-learning metho
 
 ### Generative Adversarial Networks
 * [NIPS 2016 Tutorial: Generative Adversarial Networks](https://arxiv.org/abs/1701.00160)
+
+### Transfer Learning
+* [How transferable are features in deep neural networks?](https://arxiv.org/abs/1411.1792)
